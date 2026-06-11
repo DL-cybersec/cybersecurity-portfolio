@@ -1,0 +1,50 @@
+# [Week 4 - O.S Installation and Updates]
+# Author: [Diamond Lamont]
+
+#ACS100 – 4.5 OS Installation and Updates 
+
+# | Pre-Installation: |
+
+# What hardware checks should you perform before starting the OS installation? 
+
+# Minimum System requirements should be checked; is there enough RAM, is the GPU compatible with minimum OS requirements? Do the installed components equal or exceed what the system needs in order to run safely. 
+
+# What boot method (USB/DVD/Network) would you choose and why? 
+
+# I would choose a Network boot method. With network, you can configure cloud recovery and regularly have updates to the OS downloaded and installed.  
+
+# | Installation Process: |
+
+# During installation, how do you decide on partitioning the drive (single partition vs. multiple partitions)? 
+
+# Capability and working requirements. Which type of partition would be optimal for the data that will be going on the system. 
+
+# What are the pros and cons of doing a “clean install” versus an “upgrade”? 
+
+# Pros of a clean “Clean Install”: wipes the drives and removes any potential build up, clears any malware that could be lurking on the system, gives factory settings so the system can be reconfigured to what is needed 
+
+# Cons of a “Clean Install”: all data will be lost, included back up data unless on a cloud storage system, hours of down time, have to reconfigure the entire system to spec 
+
+# Pros of an “upgrade”: Less down time, builds on current security to increase protections, ensures better compatibility, continued support 
+
+# Cons of an “upgrade”: malware would still be present, software could become obsolete, data loss if failed, and on older hardware it could present a challenge 
+
+# | Post-Installation: | 
+
+# Once the OS is installed, what are the first updates you should apply? 
+
+# Security updates should be installed first then device drivers 
+
+# Why is it important to install device drivers immediately after installation? 
+
+# To ensure that the drivers are the most up to date to the requirements of the current programs 
+
+# | Maintenance: |
+
+# How would you schedule Windows Updates so they don’t interrupt the employee during work hours? 
+
+# Determine working hours and set the timing to run several hours after they have left for the day. This would be done in the Windows Update menu of the Settings 
+
+# What risks could happen if the system is not kept up to date? 
+
+# If not kept up to date, this would eventually lead to system vulnerability and cyber attacks. 
