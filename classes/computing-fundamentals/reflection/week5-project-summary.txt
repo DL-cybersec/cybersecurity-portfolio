@@ -1,0 +1,22 @@
+# Week 5 Reflection - [ACS 100 - Computing Fundamentals]
+
+**Term:** 202605E
+**Date:** 11 June 2026
+**Instructor:** Roman Motes & Robert Loomis
+**Student:** Diamond Lamont
+
+## What I Learned
+
+Throughout this class, I learned how to troubleshoot basic IT and networking issues. I learned how to work through Windows, Linux, and MacOS command prompts. I also learned how to troubleshoot issues using AI interfaces	
+
+## What Challenged Me
+
+The labs themselves challenged me, as they had to be precise in inputs and there were many steps to walk through.
+
+## How This Connects to My Career Goals
+
+This connects to my career goals as it gives me the introduction to the powershells and cmd windows that will be common throughout my chosen career path.
+
+## What I Want to Learn Next
+
+Next, my goal is to learn how to spot, navigate, and fix vulnerabilities and security issues within a system in real time.
